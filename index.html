@@ -16,6 +16,7 @@
     window.$docsify = {
       onlyCover: true,    //只加载封面，因为当前没有Readme.md
       name: 'FleetGoo',  
+      logo: '/assets/fleetgoo_logo.png',
       loadSidebar: true,
       loadNavbar: true,
       mergeNavbar: true,
@@ -28,15 +29,26 @@
         pre: '<hr/>',
         style: 'text-align: center;',
       },
-      
-
-
-
-
 
 
     }
   </script>
+
+    <!-- 自定义样式 -->
+  <style>
+    .app-name-link img {
+      max-width: 80px;  /* 设置导航栏logo最大宽度 */
+      width: 100%;  /* 宽度自适应 */
+      height: auto;  /* 高度自动调整 */
+    }
+    
+    .cover-main img {
+      max-width: 300px;  /* 设置封面页logo最大宽度 */
+      width: 100%;  /* 宽度自适应 */
+      height: auto;  /* 高度自动调整 */
+    }
+  </style>
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
