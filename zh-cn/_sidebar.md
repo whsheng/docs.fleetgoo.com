@@ -1,4 +1,4 @@
-* [首页/Home](zh-cn/README.md)
+* [介绍/Introduction](zh-cn/README.md)
 
 * [SaaS平台/Platform](zh-cn/platform/README.md)
     * [快速入门/Quick Start](zh-cn/platform/quickstart.md)
