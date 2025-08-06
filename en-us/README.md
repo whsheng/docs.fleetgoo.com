@@ -15,24 +15,9 @@ Our cloud-based platform provides comprehensive fleet management solutions, incl
 ### Developer API
 Complete API documentation and integration guides for third-party developers.
 
-## Quick Links
+### Product Manuals
+Detailed instructions for setting up and configuring our products.
 
-- [Platform Quick Start](platform/quickstart.md)
-- [Mobile Apps Installation](mobile/README.md)
-- [API Documentation](developer/api.md)
-- [Common Issues](support/issues.md)
-
-## Support & Resources
-
-- Video tutorials and training materials are available in the [Resources](resources/README.md) section
-- Technical support and consultation services are available in the [Support](support/contact.md) section
-- Development standards and tools can be found in the [Downloads](downloads/README.md) section
-
-## Language Support
-
-This documentation is available in multiple languages:
-- [English](en-us/README.md)
-- [简体中文](zh-cn/README.md)
 
 ## Contact Us
 

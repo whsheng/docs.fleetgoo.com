@@ -1,6 +1,7 @@
 * [Home](en-us/README.md)
 
-* [SaaS Platform](en-us/platform/README.md)
+
+<!-- * [SaaS Platform](en-us/platform/README.md)
     * [Quick Start](en-us/platform/quickstart.md)
     * [Features](en-us/platform/features.md)
     * [User Guide](en-us/platform/guide.md)
@@ -17,9 +18,20 @@
     * [Authentication](en-us/developer/auth.md)
     * [API Documentation](en-us/developer/api.md)
     * [SDK Guide](en-us/developer/sdk.md)
-    * [Code Examples](en-us/developer/examples.md)
+    * [Code Examples](en-us/developer/examples.md) 
+    
+    -->
 
-* [Resources](en-us/resources/README.md)
+* [Product Manuals](en-us/products/README.md)
+    * [D501](en-us/products/D501.md)
+
+    <!-- * [C08W](en-us/products/C08W.md)
+    * [C08L](en-us/products/C08L.md)
+    * [D401](en-us/products/D401.md)
+    * [D604](en-us/products/D604.md)
+     -->
+
+<!-- * [Resources](en-us/resources/README.md)
     * [Video Tutorials](en-us/resources/videos.md)
     * [Training Materials](en-us/resources/training.md)
     * [Best Practices](en-us/resources/best-practices.md)
@@ -31,4 +43,5 @@
 
 * [Support](en-us/support/README.md)
     * [Common Issues](en-us/support/issues.md)
-    * [Contact Us](en-us/support/contact.md)
+    * [Contact Us](en-us/support/contact.md) 
+    -->
