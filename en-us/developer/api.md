@@ -7,6 +7,7 @@
 4.  For the specific request syntax of each API, including the URI, Header, Query parameters (including appkey), Post parameters, and return parameters, please refer to the detailed description of each API.
 5.  All API URLs, parameters, and return fields involved in this document must strictly match the defined case and data types.
 
+> Last Updated: 2025/08/07 by Honsen
 
 ---
 
