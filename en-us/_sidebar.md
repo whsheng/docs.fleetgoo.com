@@ -13,6 +13,7 @@
     * [WeChat Mini Program](en-us/mobile/miniprogram.md)
     * [FAQ](en-us/mobile/faq.md)
 
+
 * [Developer Center](en-us/developer/README.md)
     * [API Overview](en-us/developer/overview.md)
     * [Authentication](en-us/developer/auth.md)
@@ -20,8 +21,11 @@
     * [SDK Guide](en-us/developer/sdk.md)
     * [Code Examples](en-us/developer/examples.md) 
     
-    -->
-
+ -->
+   
+* [Developer Center](en-us/developer/README.md)
+    * [API Documentation](en-us/developer/api.md)
+    
 * [Product Manuals](en-us/products/README.md)
     * [D501](en-us/products/D501.md)
 

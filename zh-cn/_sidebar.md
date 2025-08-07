@@ -21,6 +21,9 @@
     
     -->
 
+* [开发者中心](zh-cn/developer/README.md)
+    * [API文档](zh-cn/developer/api.md)
+
 * [产品手册](zh-cn/products/README.md)
     * [D501](zh-cn/products/D501.md)
 

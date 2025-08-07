@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
 </head>
 <body>
 
@@ -20,7 +21,20 @@
       loadSidebar: true,
       loadNavbar: true,
       mergeNavbar: true,
+       
+      auto2top: true, // 跳转后自动到顶部
       coverpage: true,
+
+      // subMaxLevel: 3, // TOC显示到H3级别
+
+      // docsify-toc-plugin 配置
+      toc: {
+        tocMaxLevel: 3,
+        target: 'h2,h3,h4,h5',
+        scope: '.markdown-section', // 生成TOC内容的范围
+        // 可以根据需要调整 other options
+        // 例如：ignoreSelector: '.ignore-toc'
+      },
 
       // 添加页脚配置
       footer: {
@@ -29,6 +43,9 @@
         pre: '<hr/>',
         style: 'text-align: center;',
       },
+
+
+
 
 
     }
@@ -52,11 +69,16 @@
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
+
+<!-- 页面右侧 TOC -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1.1.0/dist/docsify-plugin-toc.min.js"></script>
+
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 
   <!-- 添加页脚插件-->
   <script src="//cdn.jsdelivr.net/npm/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script> 
+
 
 </body>
 </html>
