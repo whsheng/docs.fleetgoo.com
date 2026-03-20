@@ -10,7 +10,8 @@
 - 🤖 AI 自动识别与预警驾驶风险，提升行车安全
 - 📈 多维度实时数据分析与可视化，让决策更精准快速
 
-[官网/Web](https://www.fleetgoo.com)
+[全球总部/Web](https://www.mapgoo.net)
+[海外站点/Web](https://www.fleetgoo.com)
 [快速开始/Getting Started](zh-cn/README.md)
 
 ![color](#f0f0f0)
