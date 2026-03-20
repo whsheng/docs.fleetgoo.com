@@ -1,24 +1,23 @@
 # Product Documentation Center
 
-Welcome to our product documentation center. Here you can find comprehensive documentation for all our products and services.
+Welcome to our Product Documentation Center, where you can find detailed usage instructions for all our products and services.
 
 ## Our Products
 
-### SaaS Platform
-Our cloud-based platform provides comprehensive fleet management solutions, including real-time vehicle tracking, data analysis, and intelligent dispatching.
+### FleetGoo Platform
+Provides comprehensive management with "hardware + software + AI algorithms + solutions" for global commercial fleet users, including real-time vehicle tracking, data analytics, and intelligent scheduling.
 
 ### Mobile Applications
 - iOS App
 - Android App
 - WeChat Mini Program
 
-### Developer API
+### Open Platform
 Complete API documentation and integration guides for third-party developers.
 
-### Product Manuals
-Detailed instructions for setting up and configuring our products.
-
+### Hardware Product Manuals
+Detailed product settings and configuration instructions.
 
 ## Contact Us
 
-If you need any assistance, please don't hesitate to [contact us](support/contact.md).
+If you need any assistance, feel free to [contact us](support/contact.md).
