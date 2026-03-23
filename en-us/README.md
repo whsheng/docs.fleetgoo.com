@@ -8,9 +8,8 @@ Welcome to our Product Documentation Center, where you can find detailed usage i
 Provides comprehensive management with "hardware + software + AI algorithms + solutions" for global commercial fleet users, including real-time vehicle tracking, data analytics, and intelligent scheduling.
 
 ### Mobile Applications
-- iOS App
-- Android App
-- WeChat Mini Program
+![iOS App](./images/app_ios.png)  ![Android App](./images/app_android.png)
+
 
 ### Open Platform
 Complete API documentation and integration guides for third-party developers.

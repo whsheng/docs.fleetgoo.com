@@ -6,6 +6,9 @@
     * [User Guide](en-us/platform/guide.md)
     * [FAQ](en-us/platform/faq.md)
 
+* Product Manuals
+    * [D501](en-us/products/D501.md)
+
 <!-- The following content is temporarily unavailable
 
 * [Mobile Applications](en-us/mobile/README.md)

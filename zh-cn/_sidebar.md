@@ -1,11 +1,13 @@
 * [首页](zh-cn/README.md)
 
-* [SaaS平台](zh-cn/platform/README.md)
+* FleetGoo 平台
     * [快速入门](zh-cn/platform/quickstart.md)
     * [功能介绍](zh-cn/platform/features.md)
     * [使用指南](zh-cn/platform/guide.md)
     * [常见问题](zh-cn/platform/faq.md)
 
+* 产品手册
+    * [D501](zh-cn/products/D501.md)
 <!--
 * [移动应用](zh-cn/mobile/README.md)
     * [iOS应用](zh-cn/mobile/ios.md)

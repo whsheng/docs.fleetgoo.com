@@ -8,9 +8,8 @@
 面向全球商用车队用户提供「硬件+软件+AI算法+方案」的全方位管理，包括实时车辆跟踪、数据分析和智能调度。
 
 ### 移动应用
-- iOS应用
-- Android应用
-- 微信小程序
+![iOS App](../en-us/images/app_ios.png)  ![Android App](../en-us//images/app_android.png)
+
 
 ### 开发者API
 为第三方开发者提供完整的API文档和集成指南。
