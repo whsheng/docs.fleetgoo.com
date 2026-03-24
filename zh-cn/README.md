@@ -11,12 +11,6 @@
 ![iOS App](../en-us/images/app_ios.png)  ![Android App](../en-us//images/app_android.png)
 
 
-### 开发者API
-为第三方开发者提供完整的API文档和集成指南。
-
-### 产品手册
-详细的产品设置和配置说明。
-
 ## 联系我们
 
 如果您需要任何帮助，请随时[联系我们](support/contact.md)。

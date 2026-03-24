@@ -9,6 +9,9 @@
 * Product Manuals
     * [D501](en-us/products/D501.md)
 
+* Downloads
+    * [Protocol](en-us/downloads/protocols.md)
+
 <!-- The following content is temporarily unavailable
 
 * [Mobile Applications](en-us/mobile/README.md)

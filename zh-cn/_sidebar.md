@@ -8,6 +8,10 @@
 
 * 产品手册
     * [D501](zh-cn/products/D501.md)
+
+* 下载中心
+    * [终端协议](zh-cn/downloads/protocols.md)
+
 <!--
 * [移动应用](zh-cn/mobile/README.md)
     * [iOS应用](zh-cn/mobile/ios.md)
