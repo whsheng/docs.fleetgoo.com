@@ -12,6 +12,9 @@
 * 下载中心
     * [终端协议](zh-cn/downloads/protocols.md)
 
+* 开发者中心
+    * [API文档](https://open.u12580.com/#/doc)
+
 <!--
 * [移动应用](zh-cn/mobile/README.md)
     * [iOS应用](zh-cn/mobile/ios.md)
