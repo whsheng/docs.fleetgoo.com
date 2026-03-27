@@ -15,6 +15,9 @@
 * 开发者中心
     * [API文档](https://open.u12580.com/#/doc)
 
+* 学习资源
+    * [视频教程](zh-cn/resources/videos.md)
+
 <!--
 * [移动应用](zh-cn/mobile/README.md)
     * [iOS应用](zh-cn/mobile/ios.md)

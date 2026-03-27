@@ -15,6 +15,9 @@
 * Developer
     * [OpenAPI](https://open.u12580.com/#/doc)
 
+* Learn Resource
+    * [Video](en-us/resources/videos.md)
+
 <!-- The following content is temporarily unavailable
 
 * [Mobile Applications](en-us/mobile/README.md)
