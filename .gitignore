@@ -1,0 +1,44 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows 系统文件
+Thumbs.db
+desktop.ini
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# 日志文件
+*.log
+npm-debug.log*
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+
+# 节点模块（如果使用 npm/yarn）
+node_modules/
+
+# 构建输出（如果有构建过程）
+dist/
+build/
+
+# 本地配置文件（包含敏感信息）
+.local.env
+.env.local
+*.local.*
+.qwen/
+
+# 备份文件
+*.bak
+*.backup
