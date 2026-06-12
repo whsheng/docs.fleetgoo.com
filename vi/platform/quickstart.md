@@ -6,7 +6,7 @@ FleetGoo là một SaaS quản lý đội xe được ra mắt bởi [Mapgoo Tec
 
 [Phiên bản Trung Quốc](http://mapgoo-oms.oss-cn-shenzhen.aliyuncs.com/1695603033_web%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E(%E4%B8%AD%E6%80%A7%E7%89%88)_20230913.mp4)
 
-[Tiếng Việt]()
+[Tiếng Việt](https://mgholiday.oss-cn-shenzhen.aliyuncs.com/fleetgoo/video/FleetGoo%20SaaS%20Platform%20Introduce_EN_20250420.mp4)
 
 ### Kịch Bản Ứng Dụng
 
